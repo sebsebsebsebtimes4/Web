@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T09:38:40.135Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="a1OFRdLe21_MNCL5ccP_" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-19T11:21:55.677Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="YXmT2dC-yLctt6XtDm3H" version="14.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -64,7 +64,7 @@
         <mxCell id="hMl0VfLWSUh3gctP57UW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hMl0VfLWSUh3gctP57UW-17" target="hMl0VfLWSUh3gctP57UW-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hMl0VfLWSUh3gctP57UW-17" value="Append all queries in POWER BI&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hMl0VfLWSUh3gctP57UW-17" value="Append all queries in POWER BI &amp;amp;Calculate the Score" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="490" width="230" height="140" as="geometry" />
         </mxCell>
         <mxCell id="hMl0VfLWSUh3gctP57UW-20" value="Create visual" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
