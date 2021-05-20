@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-05-19T14:27:09.386Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="VRAQI2QEm8EunDo9XdEc" version="14.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-05-20T13:36:54.576Z" agent="5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36" etag="WYs8sPaa9u1kNiOMJirz" version="14.1.8" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="868" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1038" dy="450" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -52,7 +52,7 @@
         <mxCell id="hMl0VfLWSUh3gctP57UW-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hMl0VfLWSUh3gctP57UW-9" target="WIyWlLk6GJQsqaUBKTNV-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hMl0VfLWSUh3gctP57UW-9" value="1 file provided" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="hMl0VfLWSUh3gctP57UW-9" value="2 file provided Volume and others just 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="390" y="140" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hMl0VfLWSUh3gctP57UW-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hMl0VfLWSUh3gctP57UW-16" target="hMl0VfLWSUh3gctP57UW-17">
@@ -64,8 +64,8 @@
         <mxCell id="hMl0VfLWSUh3gctP57UW-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="hMl0VfLWSUh3gctP57UW-17" target="hMl0VfLWSUh3gctP57UW-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hMl0VfLWSUh3gctP57UW-17" value="Append all queries in POWER BI &amp;amp;Calculate the Score" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="490" width="230" height="140" as="geometry" />
+        <mxCell id="hMl0VfLWSUh3gctP57UW-17" value="Append all queries in POWER BI into 2 main queries, 1 is master/1 is POF" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="360" y="490" width="230" height="210" as="geometry" />
         </mxCell>
         <mxCell id="hMl0VfLWSUh3gctP57UW-20" value="Create visual" style="rhombus;whiteSpace=wrap;html=1;shadow=0;fontFamily=Helvetica;fontSize=12;align=center;strokeWidth=1;spacing=6;spacingTop=-4;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="360" y="700" width="230" height="130" as="geometry" />
